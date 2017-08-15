@@ -12,9 +12,9 @@ https://earthquake.usgs.gov/fdsnws/event/1/
 Pre-requisites
 --------------
 
-- Android SDK v23
-- Android Build Tools v23.0.2
-- Android Support Repository v23.3.0
+- Android SDK v25
+- Android Build Tools v25.0.3
+- Android Support Repository v25.3.1
 
 Getting Started
 ---------------
